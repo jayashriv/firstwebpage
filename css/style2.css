@@ -1,0 +1,90 @@
+body{
+ background="/home/training/Pictures/index.jpeg";
+ font-family:Lato,sans-serif;
+ width:100%;
+ 
+}
+.heading{
+	float:left;
+	width:200px;
+	margin-left:80px;
+	color:white;
+	
+}
+.navbar {
+height:80px;
+width:100%;
+background-color:#34496E;s
+
+}
+.navbar ul{
+margin:0;
+padding:0;
+
+}
+.navbar ul li{
+list-style:none;
+border-right:1px solid gray;
+border-left:1px solid gray;
+
+}
+.navbar ul li a{
+text-decoration:none;
+float:left;
+display:block;
+padding:30px 30px;
+color:black;
+}
+.navbar ul li a:hover{
+color:yellow;
+}
+
+footer{
+	width:100%;
+	background-color:#000000;
+	padding:60px 0px;
+	float:right;
+}
+.footer{
+	padding-left:100px;
+	padding-right:100px;
+}
+.foot{
+	color: #B2BABB;
+	font-size: 15px
+}
+.fa{
+	padding-left:7%;
+}
+.herounit{
+	background-color:#AED6F1;
+	width:100%;
+	font-family:"Alegreya",serif;
+	color: #34495e ;
+	height:800px;
+}
+#pic{
+	display:block;
+	margin-left:auto;
+	text-align:center;
+}
+.col1,.col2,.col3,.insight{
+	font-family:"Alegreya";
+}
+.middle{
+	text-align:center;
+	font-family:"Alegreya";
+	color:#34496E;
+}
+.line,.line1{
+	background-color:black;
+	width:50px;
+	height:2.5px;
+	
+}
+.line{
+	margin:auto;
+}
+.copyrights{
+	text-align:center;
+}
